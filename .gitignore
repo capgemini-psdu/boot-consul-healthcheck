@@ -1,0 +1,11 @@
+.project
+.classpath
+.settings/
+application-logs/
+target/
+tomcat/
+logs/
+application.pid
+spring.log
+*.log
+soap-tests/output/*
